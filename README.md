@@ -1,6 +1,6 @@
 # Aurora Deeply Viewer
 
-Aurora Deeply Viewer 0.9.10.2 Stable is an independent Windows community
+Aurora Deeply Viewer 0.9.10.3 Stable is an independent Windows community
 viewer prepared by MrDiablo85.
 
 - GitHub: <https://github.com/Diablo85666/Aurora-Deeply-Viewer>
