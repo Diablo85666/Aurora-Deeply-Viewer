@@ -29,6 +29,9 @@ release](https://github.com/Diablo85666/Aurora-Deeply-Viewer/releases/latest).
 - [Download per Linux](https://github.com/Diablo85666/Aurora-Deeply-Viewer/releases/latest)
 - [Tutte le release](https://github.com/Diablo85666/Aurora-Deeply-Viewer/releases)
 
+È in preparazione una build Linux community di Aurora Deeply Viewer con
+pacchetti `.deb` per distribuzioni Debian e Ubuntu.
+
 Il pacchetto Windows attuale è:
 
 `Aurora-Deeply-Viewer-0.9.10.4-windows-x64.zip`
@@ -175,6 +178,9 @@ releases page](https://github.com/Diablo85666/Aurora-Deeply-Viewer/releases/late
 - [Download Aurora Deeply Viewer](https://github.com/Diablo85666/Aurora-Deeply-Viewer/releases/latest)
 - [Download for Linux](https://github.com/Diablo85666/Aurora-Deeply-Viewer/releases/latest)
 - [All releases](https://github.com/Diablo85666/Aurora-Deeply-Viewer/releases)
+
+A community Linux build of Aurora Deeply Viewer is planned, with `.deb`
+packages for Debian and Ubuntu distributions.
 
 The current Windows package is:
 
